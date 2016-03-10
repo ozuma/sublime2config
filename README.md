@@ -26,7 +26,11 @@ Draw a line around codeblocks.
 ### File Path
 
 ```
+Windows:
 C:\Users\{USER}\AppData\Roaming\Sublime Text 2\Packages\Markdown Preview\markdown.css
+
+Mac:
+/Users/${USER}/Library/Application Support/Sublime Text 2/Packages/markdown.css
 ```
 
 replace a file with `Packages/Markdown Preview/markdown.css` or diff:
